@@ -1,0 +1,18 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro.md
+parts:
+  - caption: Topics 
+    chapters:
+    - file: Jupyter_files/example_file.ipynb
+      title: Basics of Python
+  - caption: Assignments 
+    chapters:
+    - file: Assignments/assignments_info.md
+      title: Assignments
+  - caption: Final
+    chapters:
+    - file: Final/final_info.md
+      title: Final 
