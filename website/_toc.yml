@@ -8,11 +8,11 @@ parts:
     chapters:
     - file: Jupyter_files/example_file.ipynb
       title: Basics of Python
-  - caption: Assignments 
+  - caption: Announcements 
     chapters:
-    - file: Assignments/assignments_info.md
-      title: Assignments
-  - caption: Final
+    - file: Announcements/announcements_info.md
+      title: Announcements
+  - caption: Final Project
     chapters:
-    - file: Final/final_info.md
-      title: Final 
+    - file: Final_Project/final_info.md
+      title: Final Project
