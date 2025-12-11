@@ -8,9 +8,7 @@ The outline of the course can be found [![Download PDF](https://img.shields.io/b
 
 - How modern machine learning and statistical methods accelerate materials discovery.
 - Data pipelines: curation, featurization, and validation for chemistry and materials datasets.
-- Core models: linear baselines, tree ensembles, Gaussian processes, and neural networks.
-- Generative and surrogate modeling for structure/property exploration.
-- Automation: connecting ML with simulation workflows and labs.
+- Core models: linear baselines, Gaussian processes, and neural networks.
 - Responsible AI: reproducibility, uncertainty, and ethics in scientific AI.
 
 
