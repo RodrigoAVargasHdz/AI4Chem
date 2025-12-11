@@ -1,0 +1,45 @@
+# Syllabus
+
+## Course overview
+
+This course introduces practical AI tools for materials science, blending lectures with hands-on notebooks. Students will learn to frame scientific questions as machine learning and data science tasks, build reliable models, and integrate them with simulation or experimental pipelines.
+
+## Learning objectives
+
+- Formulate materials problems for supervised, unsupervised, and generative modeling.
+- Engineer features for molecules, crystals, and microstructures.
+- Train, tune, and evaluate models with meaningful uncertainty estimates.
+- Design active learning and surrogate modeling loops.
+- Apply automation to run and monitor simulations at scale.
+- Communicate results with reproducible workflows and documentation.
+
+## Schedule sketch
+
+<!-- Week 1: ML foundations for scientific data  
+Week 2: Data pipelines and featurization  
+Week 3: Linear models, trees, and GPs  
+Week 4: Neural networks for materials data  
+Week 5: Generative models for structure/property exploration  
+Week 6: Active learning and Bayesian optimization  
+Week 7: Automation with simulation workflows  
+Week 8: Ethics, reproducibility, and project presentations -->
+
+* Week 1: Linear models
+* Week 2: Kernel models
+* Week 3: Neural Networks
+* Week 4: Gradient descent and differentiable programming
+* Week 5: Molecular representations
+* Week 6: Graph Neural networks
+* Week 7: Reading week break. No classes this week!! 
+* Week 8: MACE or PySCF tutorial 
+
+
+## Assessment
+
+## Final project
+## Policies
+
+- Reproducibility is required: every figure and table must be backed by code and metadata.
+- Collaboration is encouraged; attribution and clear division of labor are required.
+- Datasets must include provenance and licenses; avoid sharing restricted data.
+

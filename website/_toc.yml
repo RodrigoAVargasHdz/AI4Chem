@@ -1,18 +1,18 @@
-# Table of contents
-# Learn more at https://jupyterbook.org/customize/toc.html
-
 format: jb-book
-root: intro.md
+root: intro
 parts:
-  - caption: Topics 
+  - caption: Course Logistics
     chapters:
-    - file: Jupyter_files/example_file.ipynb
-      title: Basics of Python
-  - caption: Announcements 
+      - file: syllabus
+      - file: resources
+  - caption: Foundations
     chapters:
-    - file: Announcements/announcements_info.md
-      title: Announcements
-  - caption: Final Project
+      - file: modules/01-foundations
+      - file: modules/02-data-and-featurization
+      - file: modules/03-modeling-and-learning
+  - caption: Applications
     chapters:
-    - file: Final_Project/final_info.md
-      title: Final Project
+      - file: modules/04-structure-generation
+      - file: modules/05-simulation-automation
+      - file: modules/06-ethics-and-reproducibility
+
