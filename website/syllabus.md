@@ -22,14 +22,14 @@ Week 6: Active learning and Bayesian optimization
 Week 7: Automation with simulation workflows  
 Week 8: Ethics, reproducibility, and project presentations -->
 
-* Week 1: Linear models
-* Week 2: Kernel models
-* Week 3: Neural Networks
-* Week 4: Gradient descent and differentiable programming
-* Week 5: Molecular representations
-* Week 6: Graph Neural networks
-* Week 7: Reading week break. No classes this week!! 
-* Week 8: MACE or PySCF tutorial 
+* **Week 1**: Linear models
+* **Week 2**: Kernel models
+* **Week 3**: Neural Networks
+* **Week 4**: Gradient descent and differentiable programming
+* **Week 5**: Molecular representations
+* **Week 6**: Graph Neural networks
+* **Week 7**: Reading week break. No classes this week!! 
+* **Week 8**: MACE or PySCF tutorial 
 
 
 ## Final project
